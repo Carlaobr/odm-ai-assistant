@@ -1,8 +1,10 @@
+
 # IBM ODM AI Assistant — Integracao com o Decision Center
 
 Este guia explica como incorporar um chatbot de IA nativamente dentro do IBM ODM 9.5 Decision Center Business Console como uma aba real — ao lado de Regras, Testes, Simulacoes e Implementacoes.
 
 Compativel com OpenAI, Anthropic Claude, Google Gemini e IBM WatsonX.
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/8a220907-0eb0-444f-8beb-ed5aca40bf27" />
 
 ---
 
@@ -274,13 +276,16 @@ Este passo registra a extensao para que o Decision Center a carregue ao abrir um
 
 **5a.** Abra o Decision Center no browser e clique em **Administracao** na navegacao superior.
 
-> [Captura de tela: menu Administracao na barra de navegacao superior do Decision Center]
+<img width="956" height="496" alt="Captura de tela 2026-06-25 202906" src="https://github.com/user-attachments/assets/e34877e5-c5a6-4c89-b82d-a67ba62a05d2" />
+
 
 **5b.** Clique em **Configuracoes**, depois em **Configuracoes Personalizadas**.
 
-> [Captura de tela: pagina de Configuracoes com o link Configuracoes Personalizadas visivel]
+<img width="958" height="485" alt="image" src="https://github.com/user-attachments/assets/a4e996fa-dd51-4888-b8fa-a8dade1f85d7" />
+
 
 **5c.** Clique no botao para adicionar uma nova configuracao (rotulado "Registrar" ou "Incluir", dependendo da versao). Preencha os campos exatamente como mostrado:
+<img width="955" height="482" alt="image" src="https://github.com/user-attachments/assets/bffc2401-5354-4441-bd94-39ab1c3b473b" />
 
 | Campo | Valor |
 |-------|-------|
