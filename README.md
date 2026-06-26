@@ -319,6 +319,8 @@ Click **Save** or press Enter.
 
 The tab bar now shows an additional tab: **Assistente IA** (or **AI Assistant** depending on the language setting).
 
+**Your page is blank; NOW LET'S ADD A.I.**
+
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/2c388408-6ce0-4d23-b332-f129af8415cd" />
 
 
