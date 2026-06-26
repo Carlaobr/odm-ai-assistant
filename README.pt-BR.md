@@ -314,6 +314,8 @@ Clique em **Salvar** ou pressione Enter.
 
 A barra de abas agora mostra uma aba adicional: **Assistente IA**.
 
+**(No seu caso a página estará em branco, AGORA VAMOS ADICIONAR A.I)**
+
 <img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/1c938f71-d34e-4629-a28f-7fddfd0f5f31" />
 
 
