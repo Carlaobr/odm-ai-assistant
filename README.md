@@ -4,6 +4,8 @@ This guide explains how to embed an AI chatbot natively inside the IBM Operation
 
 Compatible with OpenAI, Anthropic Claude, Google Gemini, and IBM WatsonX.
 
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/69d55e93-7872-48cf-8bc0-31d3ef3b85fd" />
+
 ---
 
 [Versao em Portugues](./README.pt-BR.md)
@@ -278,13 +280,18 @@ This step registers the extension so Decision Center loads it when opening a bra
 
 **5a.** Open Decision Center in your browser and click **Administration** in the top navigation.
 
-> [Screenshot: Administration menu in the Decision Center top navigation bar]
+<img width="1912" height="991" alt="image" src="https://github.com/user-attachments/assets/a39d9a87-ccfc-4fd4-a544-451da121dc69" />
+
 
 **5b.** Click **Settings**, then click **Custom Settings**.
 
-> [Screenshot: Settings page with the Custom Settings link visible]
+<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/e7a79060-17cc-4421-afd3-0d85762caae9" />
+
 
 **5c.** Click the button to add a new setting (labeled "Register" or "Add", depending on your version). Fill in the fields exactly as shown:
+
+<img width="1909" height="964" alt="image" src="https://github.com/user-attachments/assets/45f7e4b5-708d-4dc4-b3b9-a1f7f1546713" />
+
 
 | Field | Value |
 |-------|-------|
@@ -293,7 +300,9 @@ This step registers the extension so Decision Center loads it when opening a bra
 
 Then click **Include** (or **Add**).
 
-> [Screenshot: Custom Settings dialog with the name field filled in]
+<img width="1907" height="994" alt="image" src="https://github.com/user-attachments/assets/a45b5c9f-c318-4124-b3ea-55d8e72557b6" />
+
+
 
 **5d.** A new row appears with an editable value field. Set the value to:
 
@@ -303,13 +312,15 @@ extensions/AIAssistantEntryPoint
 
 Click **Save** or press Enter.
 
-> [Screenshot: Custom Settings list showing the entry with its value set]
+<img width="1918" height="958" alt="image" src="https://github.com/user-attachments/assets/b06e2dd4-8c3c-4e5a-a8be-4bcce833c955" />
+
 
 **5e.** In the top navigation, click **Library**. Open your project, then click any branch (e.g., `main` or `principal`).
 
 The tab bar now shows an additional tab: **Assistente IA** (or **AI Assistant** depending on the language setting).
 
-> [Screenshot: Decision Center branch view showing the AI Assistant tab alongside Rules, Tests, Simulations, and Deployments]
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/2c388408-6ce0-4d23-b332-f129af8415cd" />
+
 
 ---
 
