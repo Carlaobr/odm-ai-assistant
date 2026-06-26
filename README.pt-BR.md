@@ -279,6 +279,7 @@ Este passo registra a extensao para que o Decision Center a carregue ao abrir um
 <img width="956" height="496" alt="Captura de tela 2026-06-25 202906" src="https://github.com/user-attachments/assets/e34877e5-c5a6-4c89-b82d-a67ba62a05d2" />
 
 
+-
 **5b.** Clique em **Configuracoes**, depois em **Configuracoes Personalizadas**.
 
 <img width="958" height="485" alt="image" src="https://github.com/user-attachments/assets/a4e996fa-dd51-4888-b8fa-a8dade1f85d7" />
@@ -294,7 +295,9 @@ Este passo registra a extensao para que o Decision Center a carregue ao abrir um
 
 Depois clique em **Incluir**.
 
-> [Captura de tela: dialogo de Configuracoes Personalizadas com o campo nome preenchido]
+<img width="1907" height="994" alt="image" src="https://github.com/user-attachments/assets/7793283c-2ccf-4c0e-b26c-09cd1d461aa6" />
+
+
 
 **5d.** Uma nova linha aparece com um campo de valor editavel. Defina o valor como:
 
@@ -304,13 +307,15 @@ extensions/AIAssistantEntryPoint
 
 Clique em **Salvar** ou pressione Enter.
 
-> [Captura de tela: lista de Configuracoes Personalizadas mostrando a entrada com seu valor definido]
+<img width="959" height="479" alt="image" src="https://github.com/user-attachments/assets/907eb6f9-119c-47f2-bea4-8f9d2835a131" />
+
 
 **5e.** Na navegacao superior, clique em **Biblioteca**. Abra seu projeto e clique em qualquer ramificacao (ex.: `principal`).
 
 A barra de abas agora mostra uma aba adicional: **Assistente IA**.
 
-> [Captura de tela: visao de branch do Decision Center mostrando a aba Assistente IA ao lado de Regras, Testes, Simulacoes e Implementacoes]
+<img width="1919" height="990" alt="image" src="https://github.com/user-attachments/assets/1c938f71-d34e-4629-a28f-7fddfd0f5f31" />
+
 
 ---
 
